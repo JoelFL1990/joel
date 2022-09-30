@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="I183.46318.schedulesdirect.org" tvg-name="07 | GAMATV" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/gamatv-500x500.png" group-title="ECUADOR ",07 | GAMATV
+http://magmas5.com:8000/malotv/gratis/2569
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="08 | TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR ",08 | TC TELEVISION HD
+http://magmas5.com:8000/malotv/gratis/2571
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="09 | TC TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR ",09 | TC TELEVISION
+http://magmas5.com:8000/malotv/gratis/2572
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="10 | CANAL UNO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/1200px-Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR ",10 | CANAL UNO 
+http://magmas5.com:8000/malotv/gratis/3591
